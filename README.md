@@ -1,5 +1,5 @@
 # SongRequests
-Request songs, amends autoplaylist file
+Request songs, appends autoplaylist file
 
 Song must be UNSHORTENED youtube link (https://www.youtube.com/watch?v=...)
 
